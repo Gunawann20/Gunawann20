@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## My Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gunawann20&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gunawann20&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gunawann20&theme=algolia)
